@@ -11,7 +11,7 @@ $bloqueado = false;
 
 //======= COMPOSTAS ===========================
 
-$frutas = array("abacaxi","laranja","manga");
+$frutas = array("abacaxi", "laranja", "manga");
 echo $frutas[2];
 $nascimento = new DateTime();
 echo "</br>";
