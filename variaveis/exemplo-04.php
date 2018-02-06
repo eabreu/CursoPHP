@@ -1,5 +1,6 @@
 <?php
 
+//COMENTARIO
 $nome = (int)$_GET["a"];
 $nome2 = (int)$_GET["b"];
 
