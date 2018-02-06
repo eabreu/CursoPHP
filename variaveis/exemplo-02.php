@@ -2,15 +2,12 @@
 
 $anoNascimento = 1990;
 
-//Comentario
-$nomeCompleto = "";
-/*
+$nome1 = "Joao";
+$nome2 = "Pedro";
 
-Bloco comentario
+$nomeComposto = $nome1 . " " . $nome2;
 
-*/
-
-echo $anoNascimento;
+echo $nomeComposto;
 
 echo "</br>";
 
