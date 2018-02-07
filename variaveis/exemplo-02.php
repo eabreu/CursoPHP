@@ -11,11 +11,8 @@ echo $nomeComposto;
 echo "</br>";
 unset($anoNascimento);
 
-if(isset($anoNascimento)){
- echo $anoNascimento;	
-}else{
-    
- echo "variavel indefinida";
+if (isset($anoNascimento)) {
+    echo $anoNascimento;
+} else {
+    echo "variavel indefinida";
 }
-
-?>
